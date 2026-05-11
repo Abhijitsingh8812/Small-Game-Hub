@@ -1,1 +1,15 @@
-# Small-Game-Hub
+Create a modern, scalable, visually stunning gaming platform website that hosts more than 500 lightweight browser games. The website must feel premium, fast, addictive, mobile friendly, and optimized for both desktop and smartphone users. The design style should combine futuristic gaming aesthetics, smooth animations, dark neon gradients, glassmorphism UI, responsive layouts, and clean typography. The platform should instantly attract teenagers, students, casual gamers, and competitive players.
+
+The homepage must contain a dynamic hero section with animated backgrounds, featured trending games, recently added games, top rated games, multiplayer highlights, category sections, and personalized recommendations. Include advanced search functionality with filters for genre, popularity, difficulty, multiplayer, single player, puzzle, racing, action, horror, adventure, strategy, sports, arcade, shooting, educational, and retro games. Add game thumbnails with hover effects, ratings, play count, and quick play buttons.
+
+Users must be able to create accounts using Google login, email signup, or social authentication. Each user should have a customizable profile containing username, avatar, achievements, badges, game history, favorites, saved progress, recently played games, leaderboards, and friend system. Add secure authentication and encrypted user data storage.
+
+Every game page must include fullscreen gameplay support, game description, controls, difficulty level, estimated play time, likes, comments, reviews, social sharing, and recommendation engine for similar games. Add smooth loading animations and optimized CDN-based asset delivery for fast performance.
+
+Include an admin dashboard where administrators can upload new games, manage categories, track analytics, moderate comments, feature trending games, manage advertisements, and monitor user engagement. Add support for banner ads, rewarded ads, and premium subscriptions without harming user experience.
+
+The backend must support scalable cloud hosting, API integration, real time analytics, SEO optimization, caching, lazy loading, and high traffic handling. Use modern technologies such as React, Next.js, Node.js, Supabase or Firebase, Tailwind CSS, and cloud storage. Add dark mode and light mode switching.
+
+Create a viral engagement system with daily rewards, tournaments, achievements, streaks, seasonal events, spin wheel rewards, XP points, rankings, and referral bonuses. Add push notifications and email alerts for tournaments and new games.
+
+The final website must feel like a mix of Steam, CrazyGames, Poki, and modern esports platforms while remaining lightweight, fast, secure, immersive, and highly monetizable. Include multilingual support, AI based recommendations, Discord community integration, parental controls, anti-cheat protection, accessibility features, privacy compliance, and a beautiful loading screen experience that keeps users engaged even during slower network conditions. 24/7 support!
